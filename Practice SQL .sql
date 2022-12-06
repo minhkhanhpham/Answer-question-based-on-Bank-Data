@@ -1,4 +1,4 @@
-﻿
+Data Source: https://docs.google.com/spreadsheets/d/1GejpDFrZgfY18H0pQanyt-5OoXmj3uOh/edit?usp=sharing&ouid=111964587167429019188&rtpof=true&sd=true
 ----số lượng thẻ tại trạng thái ok theo tên chi nhánh
 select ma_chi_nhanh, count(*)
 from the 
